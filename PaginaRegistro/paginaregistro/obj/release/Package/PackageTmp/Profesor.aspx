@@ -14,7 +14,7 @@
 </head>
 <body style="height: 444px">
     <form id="form1" runat="server">
-        <strong><span class="auto-style1">Gestion Web de Tareas-Dedicacion</span></strong><br />
+        <strong><span class="auto-style1">Gestion Web de Tareas-Dedicacion - Profesores</span></strong><br />
         <br />
         <asp:Panel ID="Panel1" runat="server" Height="318px" style="text-align: center; background-color: #CCCCFF" Width="170px">
             <br />

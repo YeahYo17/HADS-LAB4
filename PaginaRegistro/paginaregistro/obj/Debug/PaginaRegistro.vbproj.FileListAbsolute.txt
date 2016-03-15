@@ -74,3 +74,15 @@ C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.vb
 C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.dll
 C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.xml
 C:\Users\Kevin\Desktop\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\PaginaRegistro.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\bin\RegistroLibrary.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.vbprojResolveAssemblyReference.cache
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.Resources.resources
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.vbproj.GenerateResource.Cache
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\PaginaRegistro\obj\Debug\PaginaRegistro.pdb

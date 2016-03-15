@@ -38,3 +38,11 @@ C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.
 C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.dll
 C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.xml
 C:\Users\Kevin\Desktop\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\bin\Debug\RegistroLibrary.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\bin\Debug\RegistroLibrary.pdb
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\bin\Debug\RegistroLibrary.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.Resources.resources
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.vbproj.GenerateResource.Cache
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.dll
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.xml
+D:\Universidad\2015.2016\HADS\GitHub\HADS-LAB4\PaginaRegistro\RegistroLibrary\obj\Debug\RegistroLibrary.pdb

@@ -38,7 +38,7 @@ Partial Public Class InsertarTarea
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox1 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txtCod As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control TextBox2.
@@ -47,7 +47,7 @@ Partial Public Class InsertarTarea
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox2 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txtDescrip As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control DropDownList1.
@@ -56,7 +56,7 @@ Partial Public Class InsertarTarea
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents DropDownList1 As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents listaAsig As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control SqlDataSource1.
@@ -74,7 +74,7 @@ Partial Public Class InsertarTarea
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox3 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txtHoras As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control DropDownList2.
@@ -83,7 +83,7 @@ Partial Public Class InsertarTarea
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents DropDownList2 As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents listaTareas As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control SqlDataSource2.

@@ -6,8 +6,10 @@ Public Class Inicio
 
     Private Conexion As SqlConnection = New SqlConnection("Server=tcp:hads21.database.windows.net,1433;Database=HADS21;User ID=starkgs@hotmail.com@hads21;Password=HADS21perro;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;MultipleActiveResultSets=true")
 
+
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         Session("Conexion") = Conexion
+        Session("dAdapter") = New SqlDataAdapter("SELECT * FROM TareasGenericas", Conexion)
         Session("email") = Nothing
     End Sub
 
