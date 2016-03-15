@@ -222,9 +222,17 @@ Control btnTareasAlum.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:PaginaRegistro.TareasAlumno.GridView1">
+</member><member name="F:PaginaRegistro.TareasAlumno.GridView2">
 	<summary>
-Control GridView1.
+Control GridView2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.TareasAlumno.SqlDataSource2">
+	<summary>
+Control SqlDataSource2.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -400,7 +408,87 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </remarks>
 </member><member name="F:PaginaRegistro.InstanciarTarea.form1">
 	<summary>
-control form1.
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.CabeceraAlumno1">
+	<summary>
+Control CabeceraAlumno1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.txtUser">
+	<summary>
+Control txtUser.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.txtTarea">
+	<summary>
+Control txtTarea.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.txtHEst">
+	<summary>
+Control txtHEst.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.txtHReal">
+	<summary>
+Control txtHReal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.btnCrear">
+	<summary>
+Control btnCrear.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.GridView3">
+	<summary>
+Control GridView3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.lblModif">
+	<summary>
+Control lblModif.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PaginaRegistro.InstanciarTarea.hlPagAnt">
+	<summary>
+Control hlPagAnt.
 </summary>
 	<remarks>
 Campo generado automáticamente.

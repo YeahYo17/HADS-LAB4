@@ -142,7 +142,7 @@ Public Class LibraryVB
         smtp.EnableSsl = True
         smtp.Host = "smtp.gmail.com"
         smtp.Port = 587
-        smtp.Credentials = New System.Net.NetworkCredential("kevineitor17@gmail.com", "ne17ke17")
+        smtp.Credentials = New System.Net.NetworkCredential("kevineitor17@gmail.com", "********")
 
         Try
             smtp.Send(mail)
